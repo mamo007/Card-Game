@@ -1,5 +1,5 @@
-# Cards-Game
-A simple cards game using html/css/typescript/bootstrap with sound!
+# Card-Game
+A simple card game using html/css/typescript/bootstrap with sound!
 
 ## Preview
 
